@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
-permalink: /docs/quick-start-guide/
-layout: posts
+permalink: /tags/
+layout: tags
 author_profile: true
 ---
