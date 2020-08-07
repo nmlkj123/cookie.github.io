@@ -13,9 +13,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar:
-  nav: "docs"
-
 docs:
   - title: Getting Started
     children:
