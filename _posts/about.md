@@ -1,8 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "about.md"
-last_modified_at: 2018-07-01T12:04:24-04:00
+date: 2020-08-07 11:45:30 -0400
 toc: true
 tags: [About]
 ---
