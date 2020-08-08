@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "네비게이션"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "포스트"
     url: /about/
-  - title: "Category"
+  - title: "카테고리"
     url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -13,11 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidelist:
-  - title: 개발공부
-    children:
-      - title: "스프링"
-        url: /spring/
+
 
 docs:
   - title: Getting Started
