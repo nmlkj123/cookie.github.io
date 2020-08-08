@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "귀족쿠키"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/character.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발공부 **블로그**."
   location         : "Somewhere"
   email            : 
