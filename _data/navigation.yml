@@ -17,7 +17,7 @@ sidelist:
   - title: 개발공부
     children:
       - title: "스프링"
-        url:/spring/
+        url: /spring/
 
 docs:
   - title: Getting Started
