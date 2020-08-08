@@ -1,7 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "포스트"
 layout: posts
 author_profile: true
 ---
-이히히
