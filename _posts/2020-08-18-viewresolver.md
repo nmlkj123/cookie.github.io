@@ -13,12 +13,10 @@ SPRING 컨트롤러는 뷰에 의존적이지 않다.
 컨트롤러가 지정한 뷰 이름으로부터 응답 결과 화면을 생성하는 View 객체는 ViewResolver가 구한다. SPRING은 몇 가지 ViewResolver
 구현 Class를 제공하고 있는데, 이중 주요 ViewResolver 구현 Class는 아래와 같다.
 
-<BR>
 
-* * *
 | 구현CLASS | 설명 |
 |--------|--------|
-| **InternalResourceViewResolver **      |   뷰 이름으로부터 JSP나 Tiles 연동을 위한 View 객체를 리턴한다     |
+|**InternalResourceViewResolver**|뷰 이름으로부터 JSP나 Tiles 연동을 위한 View 객체를 리턴한다|
 |**VelocityViewResolver**|뷰 이름으로부터 Velocity 연동을 위한 View 객체를 리턴한다.|
 |**VelocityLayoutViewResolver**|VelocityViewResolver와 동일한 기능을 제공하며, 추가로 Velocity의 레이아웃 기능을제공한다.|
 |**BeanNameViewResolver**|뷰 이름과 동일한 이름을 갖는 빈 객체를 View 객체로 사용한다.|
