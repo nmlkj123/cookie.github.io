@@ -1,8 +1,7 @@
 ---
-title: "Viewresolver 공부"
+title: "ViewResolver 공부"
 date: 2020-08-18 11:44:28 -0400
 categories: spring
-classes: wide
 toc: true
 ---
 
